@@ -11,9 +11,8 @@ var k = 1;
 
 do {
   console.log(k);
-}
+}while (k > 4);
 
-while (k > 4);
 console.log('end of the world')
 
 

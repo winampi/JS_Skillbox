@@ -1,3 +1,4 @@
+
 //--string--//
 'abc\ndef';  //перенос строк//
 \u  //unicode symbol//
